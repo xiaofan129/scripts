@@ -118,7 +118,7 @@ async function main(saveSingle = true) {
     prev[key as string] = value;
     return prev;
   }, {});
-  await writeJSON(resolve(__dirname, "__ui.json"), results, { spaces: 2 });
+  await writeJSON(resolve(__dirname, "ui.json"), results, { spaces: 2 });
   console.log("---ok---");
 }
 
