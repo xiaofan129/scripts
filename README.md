@@ -1,1 +1,1 @@
-store personal scripts
+store some personal scripts

@@ -5,5 +5,8 @@
     "axios": "^1.4.0",
     "dotenv": "^16.0.3",
     "fs-extra": "^11.1.1"
+  },
+  "dependencies": {
+    "ofetch": "^1.2.1"
   }
 }
